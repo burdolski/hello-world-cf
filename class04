@@ -1,0 +1,25 @@
+<header>
+        <h1>Skiing and snowboarding</h1>
+        <nav>
+            <ul>
+              <li><a href="https://github.com/rapib/hello-world/index.html">My Page</a></li>
+              <li><a href="https://github.com/burdolski/hello-world/index.html">Brice's Page</a></li>
+              <li><a href="http://www.imdb.com">imdb</a></li>
+            </ul>
+          </nav>
+    </header>
+<main>
+        <section>
+            <img src="poster1.jpg" alt="poster1"/>
+            <h3>Movie name</h3>
+            <p>synopsis</p>
+        </section>
+        <section>
+            <img src="poster2.jpg" alt="poster2"/>
+            <h3>Movie name2</h3>
+            <p>synopsis</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; Thomas Lau</p>
+    </footer>    
